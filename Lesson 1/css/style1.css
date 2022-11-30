@@ -25,8 +25,45 @@ div{
     border: 10px solid black;
     padding: 40px;
     margin: 20px;
-
-
-
-
 }
+
+
+
+
+#one{
+    border: 5px dotted;
+}
+#two{
+    border: 5px dashed;
+}
+#three{
+    border: 5px double;
+}
+#four{
+    border: 5px ridge;
+}
+#five{
+    border: 5px inset;
+}
+#six{
+    border: 5px outset;
+}
+#seven{
+    border: 5px none;
+}
+
+
+
+#eight{
+    border-style: solid dotted dashed inset;
+}
+
+
+
+#nine{
+    border: 5px solid;
+}
+#ten{
+    border: 5px groove;
+}
+
