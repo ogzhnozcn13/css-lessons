@@ -1,0 +1,32 @@
+p{
+    background-color: aqua;
+}
+
+
+
+.second{
+    border: 7px solid black;
+    color: rgb(176, 8, 8);
+    font-size: large;
+    padding: 10px;
+    margin: 30px;
+}
+
+
+
+#third{
+    background-color: darkorange;
+    color: rgba(133, 16, 16, 0.51);
+}
+
+
+
+div{
+    border: 10px solid black;
+    padding: 40px;
+    margin: 20px;
+
+
+
+
+}
