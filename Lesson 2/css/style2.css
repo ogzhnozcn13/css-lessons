@@ -1,9 +1,56 @@
+body{
+    /* background-color: cornflowerblue; */
+    background-image: url(Wallpaper.jpg); background-repeat: no-repeat; background-position: left top; background-size: cover; 
+    background-attachment: fixed ;
+
+
+    /* background: #105764 url(Wallpaper.jpg) no-repeat right top fixed ;    <------- HEPSİ TEK BİR SATIRDA */
+}
+
+
+
+/* p{
+    background-color: crimson
+} */
+
+
+
+a{
+    background-color: rgb(3, 207, 17);
+    color: aliceblue;
+}
+
+
+
 div{
-    border: 10px solid gray;
+    border: 10px ridge rgb(116, 7, 7);
+    border-width: 25px 10px 3px 50px;
     padding: 10px;
-    background-color: darkturquoise;
-    
+    /* background-color: darkturquoise; */
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 234, 0); background-repeat: no-repeat; background-size: cover;
+    margin-left: 300px;
+    margin-right: 50px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
 
 
 
+div p{
+    background-color: orange;
+}
+
+
+
+.one{
+    background-color: rgb(159, 220, 18);
+}
+
+
+
+.ozy{
+    background-color: crimson;
+    color: rgb(255, 255, 255);
 }
