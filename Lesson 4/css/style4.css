@@ -1,0 +1,58 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 15px;
+}
+
+.p1{
+    font-family: Zen Dots;
+    font-size: 20px;
+    font-style: normal;
+
+}
+
+.p2{
+    font-size: 40px;
+    text-shadow: 5px 5px 5px rgb(0, 255, 17);
+}
+
+
+.material-symbols-outlined{
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+a:link{
+    background-color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: gold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: double;
+}
+
+a:active{
+    background-color: green;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: dotted;
+}
+
+a:visited{
+    background-color: red;
+    font-size: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: wavy;
+}
+
+/* ul{
+    list-style-image: url(./img/KEY.png); width: 10px; height: 10px;
+} */

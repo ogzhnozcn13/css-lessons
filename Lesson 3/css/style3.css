@@ -1,10 +1,54 @@
-div{
-    width: 200px;
-    height: 300px;
+body{
+    background-color: gold;
+
+}
+
+h1{
+    background-color: darkred;
+    color: azure;
+    margin: 30px;
+}
+
+#div-parent{
+    border: 5px solid black;
+    width: 900px;
+    height: 900px;
+    text-align: center;
+}
+
+#p1{
+    border: 5px solid green;
+    outline: 30px groove rgba(0, 0, 255, 0.478);
+    outline-offset: 10px;
+}
+
+
+
+
+
+.div1{
+    background-color: rgb(128, 192, 130);
+    width: initial;
+    height: initial;
+    text-align: right;
+    padding: 30px;
+    margin: 50px;
    
+}
 
+.div2{
+    background-color: tomato;
+    width: 600px;
+    height: 300px;
+    margin-left: 5px;
+    text-align: justify;
 
+}
 
-
+.div3{
+    border: 10px solid red;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
 
 }
