@@ -23,9 +23,6 @@ h1{
 }
 
 
-
-
-
 .div1{
     background-color: rgb(128, 192, 130);
     width: initial;
@@ -51,4 +48,27 @@ h1{
     width: 300px;
     height: 300px;
 
+}
+
+#one{
+    text-align: right;
+    text-decoration: dotted overline;
+    text-decoration-color: black;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    text-shadow: 5px 5px rgb(149, 149, 194);
+    
+}
+
+#two{
+    text-align: left;
+    text-decoration: double overline underline;
+    text-transform: lowercase;
+}
+
+#three{
+    text-align: center;
+    direction: rtl;
+    text-decoration: line-through;
+    text-transform: capitalize;
 }
