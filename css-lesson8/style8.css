@@ -1,0 +1,8 @@
+div{
+    background-color: red;
+    width: 25%;
+    height: 10rem;
+    transform: translate(50%, 50%);
+    transform: rotate(-30deg);
+    transform: scale(5);
+}
