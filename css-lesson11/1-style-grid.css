@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 50vh 25vh 25vh;
+}
+
+.content{
+    background-color: aquamarine;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content7{
+    overflow: auto;
+}
+
+.content9{
+    background-image: url("https://picsum.photos/id/823/600/400");
+    background-size: cover;
+    
+}
